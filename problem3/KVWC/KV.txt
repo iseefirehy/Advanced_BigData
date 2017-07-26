@@ -1,0 +1,101 @@
+key     value
+100     One, two, buckle my shoe
+99      Three, four, shut the door
+98      Five, six, pick up sticks
+97      Seven, eight, lay them straight
+96      Nine, ten, a big fat hen
+95      One, two, buckle my shoe
+94      Three, four, shut the door
+93      Five, six, pick up sticks
+92      Seven, eight, lay them straight
+91      Nine, ten, a big fat hen
+90      One, two, buckle my shoe
+89      Three, four, shut the door
+88      Five, six, pick up sticks
+87      Seven, eight, lay them straight
+86      Nine, ten, a big fat hen
+85      One, two, buckle my shoe
+84      Three, four, shut the door
+83      Five, six, pick up sticks
+82      Seven, eight, lay them straight
+81      Nine, ten, a big fat hen
+80      One, two, buckle my shoe
+79      Three, four, shut the door
+78      Five, six, pick up sticks
+77      Seven, eight, lay them straight
+76      Nine, ten, a big fat hen
+75      One, two, buckle my shoe
+74      Three, four, shut the door
+73      Five, six, pick up sticks
+72      Seven, eight, lay them straight
+71      Nine, ten, a big fat hen
+70      One, two, buckle my shoe
+69      Three, four, shut the door
+68      Five, six, pick up sticks
+67      Seven, eight, lay them straight
+66      Nine, ten, a big fat hen
+65      One, two, buckle my shoe
+64      Three, four, shut the door
+63      Five, six, pick up sticks
+62      Seven, eight, lay them straight
+61      Nine, ten, a big fat hen
+60      One, two, buckle my shoe
+59      Three, four, shut the door
+58      Five, six, pick up sticks
+57      Seven, eight, lay them straight
+56      Nine, ten, a big fat hen
+55      One, two, buckle my shoe
+54      Three, four, shut the door
+53      Five, six, pick up sticks
+52      Seven, eight, lay them straight
+51      Nine, ten, a big fat hen
+50      One, two, buckle my shoe
+49      Three, four, shut the door
+48      Five, six, pick up sticks
+47      Seven, eight, lay them straight
+46      Nine, ten, a big fat hen
+45      One, two, buckle my shoe
+44      Three, four, shut the door
+43      Five, six, pick up sticks
+42      Seven, eight, lay them straight
+41      Nine, ten, a big fat hen
+40      One, two, buckle my shoe
+39      Three, four, shut the door
+38      Five, six, pick up sticks
+37      Seven, eight, lay them straight
+36      Nine, ten, a big fat hen
+35      One, two, buckle my shoe
+34      Three, four, shut the door
+33      Five, six, pick up sticks
+32      Seven, eight, lay them straight
+31      Nine, ten, a big fat hen
+30      One, two, buckle my shoe
+29      Three, four, shut the door
+28      Five, six, pick up sticks
+27      Seven, eight, lay them straight
+26      Nine, ten, a big fat hen
+25      One, two, buckle my shoe
+24      Three, four, shut the door
+23      Five, six, pick up sticks
+22      Seven, eight, lay them straight
+21      Nine, ten, a big fat hen
+20      One, two, buckle my shoe
+19      Three, four, shut the door
+18      Five, six, pick up sticks
+17      Seven, eight, lay them straight
+16      Nine, ten, a big fat hen
+15      One, two, buckle my shoe
+14      Three, four, shut the door
+13      Five, six, pick up sticks
+12      Seven, eight, lay them straight
+11      Nine, ten, a big fat hen
+10      One, two, buckle my shoe
+9       Three, four, shut the door
+8       Five, six, pick up sticks
+7       Seven, eight, lay them straight
+6       Nine, ten, a big fat hen
+5       One, two, buckle my shoe
+4       Three, four, shut the door
+3       Five, six, pick up sticks
+2       Seven, eight, lay them straight
+1       Nine, ten, a big fat hen
